@@ -1,0 +1,10 @@
+{
+	"name" : "BaseDisplay",
+	"version" : "0.0.1",
+	"description" : "Example display plugin for CloudKid Framework",
+	"url" : "http://github.com/CloudKidStudio/BaseDisplay",
+	"output" : "cloudkid-base-display",
+	"main" : [
+		"src/BaseDisplay.js"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "cloudkid-base-display",
+	"version": "0.0.1",
+	"main": "dist/cloudkid-base-display.min.js",
+	"dependencies": {
+		"cloudkid-framework": "*"
+	},
+	"ignore": [
+		"Gruntfile.js",
+		"build.json",
+		"examples",
+		"docs",
+		"src"
+	]
+}
